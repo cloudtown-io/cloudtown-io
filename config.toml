@@ -146,7 +146,7 @@ theme = "uBlogger"
   [params.comment]
     enable = true
     [params.comment.utterances]
-      enable = false
+      enable = true
       # owner/repo
       repo = "PawelHaracz/pawelharacz.github.io"
       issueTerm = "pathname"
