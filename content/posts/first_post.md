@@ -1,7 +1,7 @@
 ---
-title: "First_post"
+title: "First Post"
 date: 2021-02-11T18:53:26+01:00
-draft: true
+draft: false
 ---
 
 *Hello Friends*
